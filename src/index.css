@@ -107,6 +107,7 @@ button {
 .card-face {
   position: absolute;
   transform: var(--rotate-90);
+  height: 240px;
 }
 .card-back {
   transform: var(--rotate-0);
