@@ -5,7 +5,6 @@ import Header from './components/Header';
 
 function App() {
   const [cards, setCards] = useState(shuffle);
-  console.log(cards)
   const [pickOne, setPickOne] = useState(null);
   const [pickTwo, setPickTwo] = useState(null);
   const [disabled, setDisabled] = useState(false);
