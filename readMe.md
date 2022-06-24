@@ -7,3 +7,5 @@ Simple matching cards memory game built with React and deployed on firebase. Fol
 npm start
 npm run build
 firebase deploy
+
+Demo is right here https://momento-60d32.web.app/ ☄️
